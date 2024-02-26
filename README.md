@@ -3,7 +3,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/accountantincoding/Excel_Sales_Analytics/blob/main/Customer%20Performance%20Report.pdf) 
+    **1.** Create a _[customer performance report](https://github.com/bichakshansahu/Excel_Sales_Analytics/blob/main/Customer%20Performance%20Report.pdf) 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/accountantincoding/Excel_Sales_Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 
